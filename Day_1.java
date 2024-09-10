@@ -1,4 +1,4 @@
-public class September_1 {
+public class Day_1 {
     /*
      * Day 1 of 30 🗓
      * 
